@@ -19,8 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/dennosfen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dennosfen" height="30" width="40" /></a>
-<a href="https://discord.gg/dennosfen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dennosfen" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/DmitryKarp" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="DmitryKarp" height="30" width="30" /></a>
+<a href="https://t.me/Dennosfen" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="Dennosfen" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1qqoo&show_icons=true&locale=en" alt="1qqoo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1qqoo&" alt="1qqoo" /></p>
+<p>
+  
+  <img src="https://www.codewars.com/users/DmitryKarp/badges/large?logo=false" alt="" data-canonical-src="https://www.codewars.com/users/DmitryKarp/badges/large" style="max-width: 100%;">
+</p>
