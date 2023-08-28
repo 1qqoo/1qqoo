@@ -31,6 +31,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1qqoo&" alt="1qqoo" /></p>
 <p>
-  
-  <img src="https://www.codewars.com/users/DmitryKarp/badges/large" alt="" data-canonical-src="https://www.codewars.com/users/DmitryKarp" style="max-width: 100%;">
+    <img src="https://www.codewars.com/users/DmitryKarp/badges/large" alt="" data-canonical-src="https://www.codewars.com/users/DmitryKarp/badges/large" style="max-width: 100%;">
+  <img src="https://www.codewars.com/users/DmitryKarp" alt="" data-canonical-src="https://www.codewars.com/users/DmitryKarp/badges/large" style="max-width: 100%;">
 </p>
