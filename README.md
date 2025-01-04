@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://1qqoo.github.io/portfolio](https://1qqoo.github.io/portfolio)
-
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **Demonkainzzzz@yandex.ru**
